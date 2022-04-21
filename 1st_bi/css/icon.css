@@ -1,0 +1,15 @@
+*{margin:0; padding:0;}
+
+/* icon 꾸미기 */
+.top{
+  position:fixed; 
+  bottom:43px; 
+  right:120px; 
+  display:none;
+  z-index: 99;
+  width: 62px;
+  height: 63px;
+  background: url(../images/top.png);
+}
+
+.top:hover{background: url(../images/top2.png);}

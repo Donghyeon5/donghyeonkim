@@ -1,0 +1,16 @@
+*{margin: 0; padding: 0;}
+body{background: url(bg.jpg) no-repeat 0px 0px;}
+.wrap{width: 100%; text-align: center;}
+.video1{width: 60%; margin-top: 150px ;}
+
+.home{
+  position:fixed; 
+  bottom:43px; 
+  right:40px; 
+  display:block;
+  z-index: 99;
+  width: 62px;
+  height: 63px;
+  background: url(../images/home.png);
+}
+.home:hover{background: url(../images/home2.png);}
