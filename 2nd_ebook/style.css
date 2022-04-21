@@ -1,0 +1,15 @@
+body{background: url(pics/bg.jpg) no-repeat 0px 0px;}
+
+
+.home{
+    position:fixed; 
+    bottom:25px; 
+    right:25px; 
+    display:block;
+    z-index: 99;
+    width: 62px;
+    height: 63px;
+    background: url(pics/home.png);
+}
+  .home:hover{background: url(pics/home2.png);}
+  
