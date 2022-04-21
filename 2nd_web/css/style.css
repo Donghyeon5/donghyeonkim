@@ -1,0 +1,17 @@
+*{margin: 0; padding: 0;}
+
+.home{
+    position:fixed; 
+    bottom:42px; 
+    right:35px; 
+    display:block;
+    z-index: 99;
+    width: 62px;
+    height: 63px;
+    background: url(../images/home.png);
+  }
+  .home:hover{background: url(../images/home2.png);}
+
+.wrap{width: 100%; text-align: center; background-color: #cae4f9;} 
+.bi img{width: 100%; display: block;}
+.bi{width: 90%; margin: auto;}
