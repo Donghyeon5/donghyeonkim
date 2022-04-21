@@ -2249,6 +2249,11 @@ span.error {
   }
 }
 
+@media (max-width:500px){
+  .cover-v1 .subheading{
+    margin-top: -250px;
+  }
+}
 
 @media (max-width:365px){
 .gsap-reveal-hero .reveal-wrap .reveal-content {font-size: 30px};
